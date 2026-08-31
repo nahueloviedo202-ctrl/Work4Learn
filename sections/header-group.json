@@ -69,7 +69,7 @@
       "settings": {
         "speed": 4,
         "section_width": "full-width",
-        "background_color": "#bcb8b1",
+        "background_color": "#C6AC8F",
         "divider_width": 0,
         "divider_color": "",
         "padding-block-start": 20,
@@ -100,7 +100,7 @@
             "text_color": "",
             "link_background_color": "",
             "link_background_color_hover": "",
-            "link_background_color_active": "#EAE0D5",
+            "link_background_color_active": "#C6AC8F",
             "link_background_radius": 10,
             "link_background_padding_block": 6,
             "type_font_primary_size": "0.875rem",

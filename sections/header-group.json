@@ -17,7 +17,7 @@
         "announcement_BxgCk9": {
           "type": "_announcement",
           "settings": {
-            "text": "Digital Download — Get Cooking Instantly",
+            "text": "Digital Download — Get Focused Instantly",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -32,7 +32,7 @@
         "announcement_q3NaNh": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Access — Vegan Recipes, Delivered Digitally",
+            "text": "Instant Access — Start Learning Right Away",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -47,7 +47,7 @@
         "announcement_YChUPc": {
           "type": "_announcement",
           "settings": {
-            "text": "Instant Delivery — Your Vegan Recipe Guide, Ready in Seconds",
+            "text": "Digital Guide — Boost Your Productivity Now",
             "link": "",
             "font": "var(--font-subheading--family)",
             "font_size": "1.25rem",
@@ -69,7 +69,7 @@
       "settings": {
         "speed": 4,
         "section_width": "full-width",
-        "background_color": "#BCB8B1",
+        "background_color": "#bcb8b1",
         "divider_width": 0,
         "divider_color": "",
         "padding-block-start": 20,
@@ -100,7 +100,7 @@
             "text_color": "",
             "link_background_color": "",
             "link_background_color_hover": "",
-            "link_background_color_active": "#BCB8B1",
+            "link_background_color_active": "#bcb8b1",
             "link_background_radius": 10,
             "link_background_padding_block": 6,
             "type_font_primary_size": "0.875rem",
@@ -150,7 +150,7 @@
         "actions_font_size": "0.875rem",
         "actions_font": "body",
         "actions_text_case": "none",
-        "background_color_top": "#463F3A",
+        "background_color_top": "#463f3a",
         "text_color_top": "{{ settings.color_palette.background }}",
         "background_color_bottom": "",
         "text_color_bottom": "",

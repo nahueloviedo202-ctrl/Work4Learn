@@ -2620,7 +2620,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 93,
-            "text": "<p>Our users love how these recipes transform their daily meals from the first attempt, with simple ingredients and easy-to-follow steps.</p>"
+            "text": "<p>Our users love how these techniques transform their daily routine from the first attempt, with simple habits and easy-to-follow steps.</p>"
           },
           "blocks": {}
         },
@@ -2628,7 +2628,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 96,
-            "text": "<p>More than 10,000 passionate home cooks have already discovered our recipes and never looked back. Each dish is a unique culinary experience.</p>"
+            "text": "<p>More than 10,000 passionate learners have already discovered our techniques and never looked back. Each strategy is a unique productivity boost.</p>"
           },
           "blocks": {}
         },
@@ -2636,7 +2636,7 @@
           "type": "result-stat",
           "settings": {
             "percentage": 100,
-            "text": "<p>Simple, effective, and delicious. These recipes are exactly what your kitchen has been waiting for to create memorable meals.</p>"
+            "text": "<p>Simple, effective, and results-driven. These techniques are exactly what your routine has been waiting for to achieve real focus.</p>"
           },
           "blocks": {}
         }
@@ -2648,12 +2648,12 @@
       ],
       "name": "Results",
       "settings": {
-        "heading": "Discover Our Best Recipes",
+        "heading": "Discover Our Best Techniques",
         "heading_type_preset": "h2",
         "heading_font_size_desktop": 40,
         "heading_font_size_mobile": 32,
         "heading_alignment": "center",
-        "subheading": "<p>Explore our collection of delicious and easy-to-follow recipes. From classic dishes to modern creations, find the inspiration you need to cook with confidence at home, with proven techniques and simple ingredients.</p>",
+        "subheading": "<p>Explore our collection of effective and easy-to-follow techniques. From classic methods to modern strategies, find the motivation you need to focus and learn with confidence, with proven techniques and simple habits.</p>",
         "subheading_font_size_desktop": 16,
         "subheading_font_size_mobile": 15,
         "stat_text_font_size_desktop": 15,

@@ -9,7 +9,7 @@
  */
 {
   "current": {
-    "logo": "shopify://shop_images/logo.webp",
+    "logo": "shopify://shop_images/Gemini_Generated_Image_1if8051if8051if8.webp",
     "logo_height": 70,
     "logo_height_mobile": 60,
     "page_text_color": "{{ settings.color_palette.foreground }}",

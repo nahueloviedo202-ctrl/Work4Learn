@@ -220,6 +220,7 @@
         "image_zwQBFL": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/Gemini_Generated_Image_22nkt922nkt922nk.webp",
             "link": "",
             "image_ratio": "landscape",
             "width": "fill",
@@ -294,7 +295,7 @@
                 "letter_spacing": "normal",
                 "case": "none",
                 "wrap": "pretty",
-                "text_color": "",
+                "text_color": "{{ settings.color_palette.foreground }}",
                 "background": false,
                 "background_color": "#00000026",
                 "corner_radius": 0,

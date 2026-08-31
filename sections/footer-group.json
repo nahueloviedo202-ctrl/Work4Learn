@@ -16,13 +16,13 @@
       "name": "Shape divider",
       "settings": {
         "height": 80,
-        "shape_color": "#463F3A",
+        "shape_color": "#463f3a",
         "flip": false,
         "animate": true,
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#8A817C"
+        "background_color": "#C6AC8F"
       }
     },
     "footer_m9NzUG": {
@@ -1026,7 +1026,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 20,
-        "background_color": "#463F3A",
+        "background_color": "#463f3a",
         "padding-block-start": 30,
         "padding-block-end": 30
       }

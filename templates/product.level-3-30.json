@@ -284,9 +284,9 @@
                   "static": true,
                   "settings": {
                     "style_class": "button-custom",
-                    "custom_button_background": "#463F3A",
+                    "custom_button_background": "#463f3a",
                     "custom_button_text": "{{ settings.color_palette.background }}",
-                    "custom_button_border": "#463F3A"
+                    "custom_button_border": "#463f3a"
                   },
                   "blocks": {}
                 },
@@ -347,7 +347,7 @@
         "limit_details_width": false,
         "gap": 40,
         "enable_sticky_add_to_cart": true,
-        "background_color": "#8A817C",
+        "background_color": "#C6AC8F",
         "padding-block-start": 60,
         "padding-block-end": 60
       }

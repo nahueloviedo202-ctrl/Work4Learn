@@ -1273,7 +1273,7 @@
               "type": "text",
               "name": "t:names.heading",
               "settings": {
-                "text": "<p>Cook Delicious Vegan Meals → Master Focus and Learning, Even If You're Just Starting Out</p>",
+                "text": "<p>Master Focus and Learning, Even If You're Just Starting Out</p>",
                 "width": "fit-content",
                 "max_width": "narrow",
                 "alignment": "center",

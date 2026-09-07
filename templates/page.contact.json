@@ -43,7 +43,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>Business Name:</strong> WORK4LEARN LLC<br/><br/><strong>Brand:</strong> Work4Learn<br/><br/><strong>Business Activity:</strong> Digital marketing agency and digital products, including eBooks, guides, and downloadable training content.</p><p><strong>Address:</strong><br/><br/>117 South Lexington Street Ste 100<br/><br/>Harrisonville, MO 64701<br/><br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:contact@work4learn.com\" target=\"_blank\">contact@work4learn.com</a></p><p><strong>EIN:</strong> 42-4910067</p>",
+            "text": "<p><strong>Business Name:</strong> WORK4LEARN LLC<br/><br/><strong>Brand:</strong> Work4Learn</p><p><strong>Phone</strong>: +1 (575) 532-5585<br/><br/><strong>Business Activity:</strong> Digital marketing agency and digital products, including eBooks, guides, and downloadable training content.</p><p><strong>Address:</strong><br/><br/>117 South Lexington Street Ste 100<br/><br/>Harrisonville, MO 64701<br/><br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:contact@work4learn.com\" target=\"_blank\">contact@work4learn.com</a></p><p><strong>EIN:</strong> 42-4910067</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",

@@ -16,13 +16,13 @@
       "name": "Shape divider",
       "settings": {
         "height": 80,
-        "shape_color": "#473D35",
+        "shape_color": "#473d35",
         "flip": false,
         "animate": true,
         "animation_speed": 1,
         "space_above": 0,
         "space_below": 0,
-        "background_color": "#C6AC8F"
+        "background_color": "#c6ac8f"
       }
     },
     "footer_m9NzUG": {
@@ -938,7 +938,7 @@
                 "ai_gen_block_e3eb87d_GzgXh7": {
                   "type": "ai_gen_block_e3eb87d",
                   "settings": {
-                    "menu": "",
+                    "menu": "pol",
                     "desktop_width_percent": 100,
                     "alignment": "flex-start",
                     "mobile_alignment": "center",
@@ -1026,7 +1026,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 20,
-        "background_color": "#473D35",
+        "background_color": "#473d35",
         "padding-block-start": 30,
         "padding-block-end": 30
       }

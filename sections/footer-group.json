@@ -438,7 +438,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>30 N. Gould St. Ste R, Sheridan, WY 82801</p>",
+                    "text": "<p>117 South Lexington Street Ste 100, Harrisonville, MO 64701, United States</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",

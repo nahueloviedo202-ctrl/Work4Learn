@@ -43,7 +43,7 @@
           "type": "text",
           "name": "t:names.text",
           "settings": {
-            "text": "<p><strong>Business Name:</strong> The Green Plate Marketing LLC</p><p><strong>Address:</strong><br/>30 N Gould St Ste R<br/>Sheridan, WY 82801<br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:contact@the-green-plate.com\" target=\"_blank\">contact@the-green-plate.com</a><br/><strong>Phone:</strong> +1 (681) 254-5147</p>",
+            "text": "<p><strong>Business Name:</strong> WORK4LEARN LLC<br/><br/><strong>Brand:</strong> Work4Learn<br/><br/><strong>Business Activity:</strong> Digital marketing agency and digital products, including eBooks, guides, and downloadable training content.</p><p><strong>Address:</strong><br/><br/>117 South Lexington Street Ste 100<br/><br/>Harrisonville, MO 64701<br/><br/>United States</p><p><strong>Email:</strong> <a href=\"mailto:contact@work4learn.com\" target=\"_blank\">contact@work4learn.com</a></p><p><strong>EIN:</strong> 42-4910067</p>",
             "width": "fit-content",
             "max_width": "normal",
             "alignment": "left",
@@ -102,7 +102,7 @@
       "settings": {
         "content_direction": "column",
         "gap": 32,
-        "background_color": "#8A817C",
+        "background_color": "#8a817c",
         "padding-block-start": 40,
         "padding-block-end": 0
       }
@@ -167,7 +167,7 @@
         "section_height": "",
         "section_height_custom": 50,
         "background_media": "none",
-        "background_color": "#8A817C",
+        "background_color": "#8a817c",
         "video_position": "cover",
         "background_image_position": "cover",
         "toggle_overlay": false,

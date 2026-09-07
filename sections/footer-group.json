@@ -138,7 +138,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Work4Learn</p>",
+                    "text": "<p>Work4Learn LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -238,7 +238,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>98-1967177</p>",
+                    "text": "<p>42-4910067</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -338,7 +338,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>The Green Plate Marketing LLC is a Limited Liability Company registered in the United States.</p>",
+                    "text": "<p>Work4Learn LLC is a Limited Liability Company registered in the United States.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -538,7 +538,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Remote-first company. The Green Plate Marketing LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
+                    "text": "<p>Remote-first company. Work4Learn LLC operates globally and our operational team is based in United States (USA). All services are provided online to clients worldwide.</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -665,7 +665,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Email: contact@the-green-plate.com</p>",
+                    "text": "<p>Email: contact@work4learn.com</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
@@ -766,7 +766,7 @@
                   "type": "text",
                   "name": "t:names.text",
                   "settings": {
-                    "text": "<p>Work4Learn Marketing LLC</p>",
+                    "text": "<p>Work4Learn LLC</p>",
                     "width": "fit-content",
                     "max_width": "normal",
                     "alignment": "left",
